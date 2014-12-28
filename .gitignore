@@ -1,0 +1,6 @@
+docs/_build
+*.pyc
+build/
+dist/
+fab.egg-info/
+cookies.txt
