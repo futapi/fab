@@ -11,7 +11,7 @@ It is written entirely in Python.
 Documentation
 -------------
 
-Documentation will be available soon at http://fut.readthedocs.org/.
+Documentation will be available soon at http://fab.readthedocs.org/.
 
 Players database: https://www.easports.com/uk/fifa/ultimate-team/fut/database
 
